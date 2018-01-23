@@ -1,4 +1,4 @@
-This file tests your knowledge of Git/GitHub and also demonstrates how to edit a file with Git!
+﻿This file tests your knowledge of Git/GitHub and also demonstrates how to edit a file with Git!
 
 1. Complete the quiz below (you can use the internet to find answers)
 
@@ -7,10 +7,10 @@ This file tests your knowledge of Git/GitHub and also demonstrates how to edit a
 Questions
 =========
 
-a) Who is the author of Git?
+a) Who is the author of Git?Linus Torvalds
 
-c) Git requires internet access to use. True or False.
+c) Git requires internet access to use. True or False. f
 
-f) A repository is also known as a ‘repo’. True or False.
+f) A repository is also known as a ‘repo’. True or False. t
 
-g) Which command is used to download a repository to the local drive?
+g) Which command is used to download a repository to the local drive? git clone
